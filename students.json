@@ -1,0 +1,50 @@
+{
+    "batch_id": "batch_001",
+    "students": [
+        {
+            "name": "Student One",
+            "mobile_number": "+1234567890",
+            "email": "student1@example.com"
+        },
+        {
+            "name": "Student Two",
+            "mobile_number": "+1234567891",
+            "email": "student2@example.com"
+        },
+        {
+            "name": "Student Three",
+            "mobile_number": "+1234567892",
+            "email": "student3@example.com"
+        },
+        {
+            "name": "Student Four",
+            "mobile_number": "+1234567893",
+            "email": "student4@example.com"
+        },
+        {
+            "name": "Student Five",
+            "mobile_number": "+1234567894",
+            "email": "student5@example.com"
+        },
+        {
+            "name": "Student Six",
+            "mobile_number": "+1234567895",
+            "email": "student6@example.com"
+        },
+        {
+            "name": "Student Seven",
+            "mobile_number": "+1234567896",
+            "email": "student7@example.com"
+        },
+        {
+            "name": "Student Eight",
+            "mobile_number": "+1234567897",
+            "email": "student8@example.com"
+        },
+        {
+            "name": "Student Nine",
+            "mobile_number": "+1234567898",
+            "email": "student9@example.com"
+        }
+    ]
+}
